@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 I'm Sean
 * Currently a 1st year CS student at De La Salle University - Dasmariñas
 <!--
