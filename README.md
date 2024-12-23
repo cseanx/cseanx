@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+---
+I'm Sean
+* Currently a 1st year CS student at De La Salle University - Dasmariñas
 <!--
 **cseanx/cseanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
