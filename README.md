@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm Sean
 * Currently a 2nd year CS student
+* Head of Technical Integration for RA!N SYSTEMS
+
+* Skills: Python, Java, Javascript, MongoDB, Express, React.js, Node.js
 <!--
 **cseanx/cseanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
